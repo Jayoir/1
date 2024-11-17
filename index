@@ -16,6 +16,13 @@
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
       "groups":
       [
+
+{
+          "name": "🏴‍☠️ Lista Lucas W3U",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/links_lucas.w3u",
+	  "import":true
+        },
         
 {
           "name": "⚽️🇪🇸 La Liga",
@@ -118,12 +125,6 @@
           "name": "🏴‍☠️ Lista Af1cionados",
           "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
           "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
-	  "import":true
-        },
-{
-          "name": "🏴‍☠️ Lista Lucas W3U",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/links_lucas.w3u",
 	  "import":true
         }
 
