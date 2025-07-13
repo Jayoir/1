@@ -37,44 +37,7 @@
 	  "import":true
         },
         
-		{
-            "name": "⚽️🇪🇸 Copa del Rey 2025",
-            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-            "imageScale": "",
-            "info": "",
-            "stations": [
-                {
-                    "name": "COPA DEL REY 1 (1080)",
-                    "info": "528d",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
-                },
-                {
-                    "name": "COPA DEL REY PLUS (1080)",
-                    "info": "496e",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
-                },
-                {
-                    "name": "COPA DEL REY (1080)(MULTIAUDIO)",
-                    "info": "d281",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
-                },
-                {
-                    "name": "COPA DEL REY (1080)",
-                    "info": "443d",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
-                },
-                {
-                    "name": "COPA DEL REY (720)",
-                    "info": "1a03",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
-                }
-            ]
-        },
+
 		
         {
           "name": "⚽️ Champions League",
@@ -96,24 +59,8 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
 	  "import":true
         },
-        {
-          "name": "🏀 NBA",
-          "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/108",
-	  "import":true
-        },
-        {
-          "name": "🎾 Tenis",
-          "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/110",
-	  "import":true
-        },
-        {
-          "name": "⚾ MLB",
-          "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
-	  "import":true
-        },
+
+
 {
 	  "name": "🏴‍☠️ Chucky Deportes",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
@@ -132,19 +79,7 @@
     },
     
  
-{
-       "name": "📺🇪🇸 Lista IPTV España",
-       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/512px-Movistar_Plus%2B_2022_logo.svg.png",
-       "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
-       "import":true
-    },
 
- {
-      "name": "📺 Listas IPTV",
-      "image": "https://i.postimg.cc/02CXhJ8P/IPTV-new.png",
-      "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
-      "import":true
-    },
 {
 	  "name": "🏴‍☠️ Chucky Deportes",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
@@ -158,12 +93,7 @@
        "import":true
     },
 
-    {
-      "name": "📺 TDT Channels",
-      "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
-      "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
-	  "import":true
-    },	
+
     {
       "name": "📽️🎬 Pelis a la carta",
       "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
@@ -313,20 +243,9 @@
 	  "import":true
           }		  
         ]
-    },
-    
-    {
-      "name": "📽️🎬 Cine Oeste y Clásicos",
-      "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/307",
-	  "import":true
-    },
-    {
-      "name": "🐮🐄 Toros",
-      "image": "https://play-lh.googleusercontent.com/ZDSjarTntWnvUp47rSsoVwbT7PU-FqDHSkzQ5nc0CTlAbujoKUQr2_jw7QBbMF2hmQ=w240-h480-rw",
-     "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
-	  "import":true	  
     }
+    
+
       
   ]
 }
