@@ -23,6 +23,24 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/101",
 	  "import":true
         },
+{
+          "name": "🏴‍☠️ Lista NEWERA",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/NEWERA",
+	  "import":true
+        },
+{
+          "name": "🏴‍☠️ Lista ELCANO",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/ELCANO",
+	  "import":true
+        },
+{
+          "name": "🏴‍☠️ SHICAT",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/Shickat",
+	  "import":true
+        },
         
 #{
  #         "name": "⚽️🇪🇸 La Liga",
