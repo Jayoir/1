@@ -27,12 +27,13 @@
           "name": "🏴‍☠️ Lista eventos",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://eventos-uvl7.vercel.app",
-	  
-        },{
+	  "import":false
+        },
+{
           "name": "🏴‍☠️ Lista eventos 2",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://enlaces-omega.vercel.app/horario.html",
-	  
+	  "import":false
         },
 {
           "name": "🏴‍☠️ Lista NEWERA",
