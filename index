@@ -22,95 +22,7 @@
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/101",
 	  "import":true
-        },
-{
-          "name": "🏴‍☠️ Lista IPFS",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_iptv.m3u",
-     	  "import":true
-        },
-{
-          "name": "🏴‍☠️ Lista eventos",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/http1",
-	  "import":true
-        },
-
-{
-          "name": "🏴‍☠️ Lista NEWERA",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/NEWERA",
-	  "import":true
-        },
-{
-          "name": "🏴‍☠️ Lista ELCANO",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/ELCANO",
-	  "import":true
-        },
-{
-          "name": "🏴‍☠️ LISTA SHICKAT",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/Shickat",
-	  "import":true
-        },
-{
-          "name": "🏴‍☠️ LISTA ALEMANIA",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/DEUTCH",
-	  "import":true
-        },
-        
-#{
- #         "name": "⚽️🇪🇸 La Liga",
-  #        "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F15.png",
-   #       "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
-	#  "import":true
-     #   },
-#		{
-#          "name": "🇪🇸 Dep España",
-#          "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
-#          "url": "https://raw.githubusercontent.com/barryteve/1/main/105",
-#	  "import":true
-#        },
-        
-
-		
-#         {
-#           "name": "⚽️ Champions League",
-#           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
-#           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
-# 	  "import":true
-#         },
-	
-	        
-#        {
-#          "name": "🌎 Dep Extranjero",
-#          "image": "https://img.freepik.com/premium-vector/world-television-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2269.jpg",
-#          "url": "https://raw.githubusercontent.com/barryteve/1/main/106",
-#	  "import":true
-#        },
-#{
-#          "name": "🏎️🏁 F1/MotoGP/WRC",
-#          "image": "https://purepng.com/public/uploads/large/purepng.com-formula-1-logoformula-1logonew2018-21529676510t61kq.png",
-#          "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
-#	  "import":true
-#        },
-
-
-{
-	  "name": "🏴‍☠️ Chucky Deportes",
-	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
-	  "import":true
-	},
-
-	{
-          "name": "🏴‍☠️ Lista Af1cionados",
-          "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
-          "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
-	  "import":true
-        }
+        };
 
       ]
     },
@@ -132,7 +44,7 @@
 
 
     {
-      "name": "📽️🎬 Pelis a la carta",
+      "name": "📽️🎬 Pelis",
       "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
       "groups":
       [
@@ -177,7 +89,7 @@
       ]
     },
     {
-      "name": "📽️🎬 Series a la carta",
+      "name": "📽️🎬 Series",
       "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
       "groups":
       [
